@@ -10,9 +10,9 @@
 
 ### EFI 
 
-OpenCore: 0.6.0
+OpenCore: 0.6.3
 
-macOS version: 11.0 Beta (20A5384c)
+macOS version: 11.0.1(20B50)
 ### System installation
 * Follow step by step in this [guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
 * If your hardware is the same as me:
