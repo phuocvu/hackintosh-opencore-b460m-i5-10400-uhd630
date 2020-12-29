@@ -24,3 +24,7 @@ macOS version: 11.0.1(20B50)
 * [x] Core display hardware acceleration
 * [x] Onboard sound card
 * [x] Onboard network card
+### Note
+* layout-id = 5
+* smbios 19,2
+
